@@ -1,3 +1,8 @@
+---
+layout: single
+---
+
+
 # BUI
 
 ## HEADING 2
