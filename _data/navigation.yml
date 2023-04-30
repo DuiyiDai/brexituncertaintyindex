@@ -1,6 +1,6 @@
 main:
   - title: "Data"
-    url: /data/
+    url: /_pages/data/
   - title: "Publication"
     url: /publication/
 
