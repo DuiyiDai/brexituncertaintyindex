@@ -9,7 +9,10 @@ toc_label: "Unique Title"
 title: Brexit Uncertainty Index
 ---
 
-All data, graphs and analyses on this site should be cited as Chung, Dai and Elliott (2022).
+All data, graphs and analyses on this site should be cited as:
+```
+Chung, W, D Dai and R Elliott (eds) (2022), “DP17410 Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach”, CEPR Press Discussion Paper No. 17410. https://cepr.org/publications/dp17410
+```
 
 *Project Summary*
 - We construct novel news-based indicators of Brexit uncertainty at both aggregate and topic-specific level for the UK economy  (such as Northern Ireland, supply chain issues, and energy & climate), based on textual analysis and unsupervised machine learning methods.
