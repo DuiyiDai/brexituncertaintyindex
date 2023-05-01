@@ -52,12 +52,14 @@ Scotland
 ## Adding image
 
 - copy you image files to folder /assets/images/
-- use *![discrption of your image](/assets/images/your_image_file_name.png)* to add image to your page
+- use ```![discrption of your image](/assets/images/your_image_file_name.png)``` to add image to your page
 
 here is an example of your index.md file:
     
     ```markdown
-    ![UoB Logo](/assets/images/assets/images/crested-wm-full-colour.png)
+    ![UoB Logo](/assets/images/crested-wm-full-colour.png)
     ```
+    
 it looks like this:
-![UoB Logo](/assets/images/assets/images/crested-wm-full-colour.png)
+![UoB Logo](/assets/images/crested-wm-full-colour.png)
+
