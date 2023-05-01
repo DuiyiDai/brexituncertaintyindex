@@ -57,7 +57,7 @@ Manufacturing
 Scotland
 
 <!-- this is a demo of adding image to your page -->
-## Adding image
+<!-- ## Adding image
 
 - copy you image files to folder /assets/images/
 - use ```![discrption of your image](/assets/images/your_image_file_name.png)``` to add image to your page
@@ -69,5 +69,5 @@ here is an example of your index.md file:
 ```
 
 it looks like this:
-![UoB Logo](/assets/images/crested-wm-full-colour.png)
+![UoB Logo](/assets/images/crested-wm-full-colour.png) -->
 
