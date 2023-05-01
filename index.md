@@ -6,11 +6,9 @@ layout: single
 toc: true
 toc_sticky: true # floating toc
 toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+title: Brexit Uncertainty Index
 ---
 
-
-# Brexit Uncertainty Index
 All data, graphs and analyses on this site should be cited as [Chung, Dai and Elliott (2022)](https://cepr.org/publications/dp17410)
 
 *Project Summary*
