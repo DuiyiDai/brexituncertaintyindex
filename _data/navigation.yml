@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Data"
     url: /_pages/data.html
   - title: "Publication"
