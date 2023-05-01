@@ -62,9 +62,9 @@ Scotland
 
 here is an example of your index.md file:
     
-    ```markdown
-    ![UoB Logo](/assets/images/crested-wm-full-colour.png)
-    ```
+```md
+![UoB Logo](/assets/images/crested-wm-full-colour.png)
+```
 
 it looks like this:
 ![UoB Logo](/assets/images/crested-wm-full-colour.png)
