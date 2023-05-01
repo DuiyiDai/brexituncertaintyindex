@@ -5,7 +5,6 @@ layout: single
 # toc
 toc: true
 toc_sticky: true # floating toc
-toc_label: "Unique Title"
 title: Brexit Uncertainty Index
 ---
 
