@@ -1,3 +1,3 @@
-# brexituncertaintyindex
+# Brexit Uncertainty Index
 
-Visit out [site](https://duiyidai.github.io/brexituncertaintyindex/)
+## Visit our project [website](https://duiyidai.github.io/brexituncertaintyindex/).
