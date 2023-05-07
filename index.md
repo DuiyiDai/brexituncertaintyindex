@@ -6,6 +6,7 @@ layout: single
 toc: true
 toc_sticky: true # floating toc
 title: Brexit Uncertainty Index
+subtitle: All data, graphs and analyses on this site should be cited as [Chung, Dai and Elliott (2022)](https://cepr.org/publications/dp17410)
 ---
 
 All data, graphs and analyses on this site should be cited as [Chung, Dai and Elliott (2022)](https://cepr.org/publications/dp17410)
