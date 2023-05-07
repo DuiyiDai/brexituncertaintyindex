@@ -23,39 +23,42 @@ subtitle: All data, graphs and analyses on this site should be cited as [Chung, 
 ## Aggregate Brexit Uncertainty Index
 
 ### Aggregate BUI (2013- December 2022)
+![general](./assets/images/general2.png)
 
 -BUI: A monthly index based on the frequency of news articles that concern Brexit uncertainty. The index is normalized to a maximum value of 100. 
 
 - Lower Bound BUI: A monthly index based on the frequency of news articles that concern Brexit uncertainty, excluding all articles mentioning COVID related words after January 2020. 
 
 #### Comparison to Twitter BUI
+![Comparison to Twitter BUI](./assets/images/twitter%20(2).png)
 
 - Twitter BUI: An index that we construct based on the same methodology for the news-based BUI, but using instead the frequency of Twitter tweets concerning Brexit uncertainty.
 
 #### Comparison to Stock Market Volatility
+![Comparison to Stock Market Volatility](./assets/images/VFTSE%26BUI.png)
 
 - VFTSE: the FTSE 100 Volatility Index (VFTSE), representing the implied volatility on the FTSE 100, available until June 2019. Data source: Bloomberg.
 
 ## 	Topic-level Brexit Uncertainty Indices
 
 ### Northern Ireland
-
+![Northern Ireland](./assets/images/4NI.png)
 ### Supply Chain
-
+![Supply Chain](./assets/images/4SC.png)
 ### Energy & Climate
-
+![ec](./assets/images/4E%26C.png)
 ### Employment
-
+![e](./assets/images/4Employment.png)
 ### Immigration
-
+![i](./assets/images/4Immigration.png)
 ### Trade Policy
-
+![t](./assets/images/4TPU.png)
 ### Fishing Dispute
-
+![fd](./assets/images/4Fishing.png)
 ### Currency
-
+![c](./assets/images/4Currency.png)
 ### Macroeconomy
-
+![mac](./assets/images/4Macro.png)
 
 -Contact us for more topics:
 Government Spending & Budget 
