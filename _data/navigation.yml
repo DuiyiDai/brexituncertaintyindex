@@ -4,7 +4,7 @@ main:
   - title: "Data"
     url: /_pages/data.html
   - title: "Publication"
-    url: /publication/
+    url: /_pages/publication.html
   - title: "Contact"
-    url: /contact/
+    url: /_pages/contact.html
 
