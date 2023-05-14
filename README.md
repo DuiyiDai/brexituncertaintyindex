@@ -3,4 +3,4 @@
 ## Visit our project [website](https://duiyidai.github.io/brexituncertaintyindex/).
 
 
-main page: "index"
+main page: "[index](./index.md)"
