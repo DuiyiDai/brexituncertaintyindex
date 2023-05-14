@@ -1,12 +1,6 @@
-
 ---
-# layout style
 layout: single
-
-# toc
 toc: true
-toc_sticky: true # floating toc
-title: Brexit Uncertainty Index
 ---
 
 + ** For citation **
