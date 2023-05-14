@@ -43,24 +43,33 @@ All data, graphs and analyses on this site should be cited as [Chung, Dai and El
 
 ### Northern Ireland
 ![Northern Ireland](./assets/images/4NI.png)
+
 ### Supply Chain
 ![Supply Chain](./assets/images/4SC.png)
+
 ### Energy & Climate
 ![ec](./assets/images/4E%26C.png)
+
 ### Employment
 ![e](./assets/images/4Employment.png)
+
 ### Immigration
 ![i](./assets/images/4Immigration.png)
+
 ### Trade Policy
 ![t](./assets/images/4TPU.png)
+
 ### Fishing Dispute
 ![fd](./assets/images/4Fishing.png)
+
 ### Currency
 ![c](./assets/images/4Currency.png)
+
 ### Macroeconomy
 ![mac](./assets/images/4Macro.png)
 
 -Contact us for more topics:
+
 Government Spending & Budget 
 
 Tax
