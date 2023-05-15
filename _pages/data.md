@@ -27,6 +27,7 @@ See: Baker, S. R., Bloom, N. and Davis, S. J. (2016), ‘Measuring economic poli
 The frequency of Brexit uncertainty news proxies for Aggregate BUI. We filter out articles that touch on the topic of Brexit uncertainty from the mass of news, based on the inclusion or not of the word "Brexit" and words referring to "uncertainty" and "UK." The Word2Vec model helps by outputting the groups of words that indicate "uncertainty” and "UK.”  The term sets are:
 
 **Uncertainty**: uncertain*; instab*; unstabl*; risk*; unpredict*; volatile*; unclear*; worry*; fear*; tension*; anxiety*; anxious*; nervous*; jitter*; unsettl*; precar*; unknow*; indecis*; angst*;
+
 **UK**: UK (United Kingdom); British; Britain; 
 Notes: asterisk means all words with the stem.
 
