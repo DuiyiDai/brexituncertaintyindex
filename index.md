@@ -66,19 +66,14 @@ title: Brexit Uncertainty Index
 ### Macroeconomy
 ![mac](./assets/images/4Macro.png)
 
--Contact us for more topics:
+### Contact us for more topics:
 
-Government Spending & Budget 
-
-Tax
-
-Housing Price 
-
-Food Industry
-
-Manufacturing
-
-Scotland
++ Government Spending & Budget 
++ Tax
++ Housing Price 
++ Food Industry
++ Manufacturing
++ Scotland
 
 <!-- this is a demo of adding image to your page -->
 <!-- ## Adding image
