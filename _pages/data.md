@@ -19,6 +19,7 @@ Our BUIs are constructed based on 11 leading UK newspapers, consistent with Bake
 + The Sun
 + The Northern Echo
 + The Evening Standard
+
 See: Baker, S. R., Bloom, N. and Davis, S. J. (2016), ‘Measuring economic policy uncertainty’, The Quarterly Journal of Economics 131(4), 1593–163
 
 ## Methodology
