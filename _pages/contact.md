@@ -12,7 +12,7 @@ University of Birmingham; <br>
 Research Affiliate, CEPR <br>
 w.chung@bham.ac.uk
 
-## [Duiyi (Claire) Dai](https://sites.google.com/view/duiyidai/home)
+## [Duiyi (Claire) Dai](https://duiyidai.github.io/)
 
 (**Corresponding Author**) PhD Candidate, <br>
 University of Birmingham <br>
