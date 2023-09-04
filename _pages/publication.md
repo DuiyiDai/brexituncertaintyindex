@@ -4,9 +4,9 @@ toc: true
 ---
 
 ## For citation
-Chung, W., Dai, D., and Elliott, R. (2022), Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach, [CEPR Discussion Paper 17410](https://cepr.org/publications/dp17410)
+Chung, W., Dai, D., Elliott, R., and Görtz, C. (2023), Measuring Brexit Uncertainty: A Machine Learning and Textual Analysis Approach 
 
-(A new version is to be released soon that is a joint effort of Wanyu Chung, Duiyi Dai, Robert J R Elliott, and Christoph Görtz.) 
+(A new version is to be released soon) 
 
 ## Latest version
 [Download here](https://www.dropbox.com/s/9igo4cj83lohnxd/Measuring%20Brexit%20Uncertainty.pdf?dl=0) (Jan 2023) 
