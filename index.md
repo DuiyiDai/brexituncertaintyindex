@@ -8,7 +8,7 @@ toc_sticky: true # floating toc
 title: Brexit Uncertainty Index
 ---
 
-*All data, graphs and analyses on this site should be cited as [Chung, Dai, Elliott and Görtz (2023)](https://cepr.org/publications/dp17410)*
+*All data, graphs and analyses on this site should be cited as [Chung, Dai, Elliott and Görtz (2023)](https://www.dropbox.com/s/9igo4cj83lohnxd/Measuring%20Brexit%20Uncertainty.pdf?dl=0)*
 
 **Project Summary**
 - We construct novel news-based indicators of Brexit uncertainty at both aggregate and topic-specific level for the UK economy  (such as Northern Ireland, supply chain issues, and energy & climate), based on textual analysis and unsupervised machine learning methods.
