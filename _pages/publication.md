@@ -9,7 +9,7 @@ Chung, W., Dai, D., Elliott, R., and Görtz, C. (2023), Measuring Brexit Uncerta
 (A new version is to be released soon) 
 
 ## Latest version
-[Download here](https://www.dropbox.com/s/9igo4cj83lohnxd/Measuring%20Brexit%20Uncertainty.pdf?dl=0) (Jan 2023) 
+[Download here](https://www.dropbox.com/scl/fi/8mfzxvvqkc4c389iqexj4/Measuring-Brexit-Uncertainty.pdf?rlkey=bxvpkfvaij51f3xy1p2fab1ee&dl=0) (Sep 2023) 
 
 ## Policy brief
 [Click here](https://www.birmingham.ac.uk/research/public-affairs/policy-briefings/2022/measuring-brexit-uncertainty.aspx)
