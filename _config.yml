@@ -1,0 +1,13 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+- jekyll-include-cache
+- jekyll-sitemap
+
+include: ["_pages"]
+
+logo: "/assets/images/crested-wm-full-colour.png"
+title: Brexit Uncertainty Index
+
+atom_feed:
+  hide: true
+  
